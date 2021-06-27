@@ -1,4 +1,9 @@
-### ✨ Hi there, my name is Jessika
+### ✨ hi guys 😎 welcome to my profile!
+
+🌎 são paulo - brazil
+
+✈ full stack web developer - bootcamp generation brasil
+
 
 
 
