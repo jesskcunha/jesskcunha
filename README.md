@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessika Cunha </h1>
 <h3 align="center">Developer Java Jr. Full Stack 
   
-🌎 são paulo - brazil
+🌎 são paulo - brasil
 </h3>
 
 <h3 align="left">Connect with me 🔍 </h3>
