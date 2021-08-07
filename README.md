@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessika Cunha </h1>
-<h3 align="center">Developer Java Jr. Full Stack 
+<h3 align="center">Developer Java Full Stack 
   
 🌎 são paulo - brasil
 </h3>
